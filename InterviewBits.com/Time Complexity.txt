@@ -1,0 +1,6 @@
+Running Time of a program
+-Single vs multiple process
+-Read & Write Speed
+-32 bit vs 64 bit architecture
+-Configuration
+-Input
